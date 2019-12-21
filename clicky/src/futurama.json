@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "imglink": "./images/PhilipJ.Fry.png",
+        "name": "Fry",
+        "clickCount": 0
+    },
+    {
+        "id": 2,
+        "imglink": "./images/AmyWong.png",
+        "name": "Amy",
+        "clickCount": 0
+    },
+    {
+        "id": 3,
+        "imglink": "./images/Bender.png",
+        "name": "Bender",
+        "clickCount": 0
+    },
+    {
+        "id": 4,
+        "imglink": "./images/Dr._John_A._Zoidberg.png",
+        "name": "Zoidberg",
+        "clickCount": 0
+    },
+    {
+        "id": 5,
+        "imglink": "./images/Farnsworth.png",
+        "name": "Farnsworth",
+        "clickCount": 0
+    },
+    {
+        "id": 6,
+        "imglink": "./images/Hermes.png",
+        "name": "Hermes",
+        "clickCount": 0
+    },
+    {
+        "id": 7,
+        "imglink": "./images/Lieutenant_Kif_Kroker.png",
+        "name": "Kif",
+        "clickCount": 0
+    },
+    {
+        "id": 8,
+        "imglink": "./images/Lord_Nibbler.png",
+        "name": "Nibbler",
+        "clickCount": 0
+    },
+    {
+        "id": 9,
+        "imglink": "./images/Lurr.png",
+        "name": "Lurr",
+        "clickCount": 0
+    },
+    {
+        "id": 10,
+        "imglink": "./images/RobotDevil.jpg",
+        "name": "Robot Devil",
+        "clickCount": 0
+    },
+    {
+        "id": 11,
+        "imglink": "./images/Turanga_Leela.png",
+        "name": "Leela",
+        "clickCount": 0
+    },
+    {
+        "id": 12,
+        "imglink": "./images/Zapp_Brannigan.png",
+        "name": "Zapp",
+        "clickCount": 0
+    }
+]
